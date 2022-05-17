@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2017 Superbig
  */
 
-namespace superbig\templateselect;
+namespace breizhwave\templateselect;
 
 
 use Craft;
