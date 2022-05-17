@@ -11,8 +11,8 @@
         "template select"
     ],
     "support": {
-        "docs": "https://github.com/sjelfull/craft3-templateselect/blob/master/README.md",
-        "issues": "https://github.com/sjelfull/craft3-templateselect/issues"
+        "docs": "https://github.com/breizhwave/craft4-templateselect/blob/master/README.md",
+        "issues": "https://github.com/breizhwave/craft4-templateselect/issues"
     },
     "license": "MIT",
     "authors": [
@@ -22,7 +22,7 @@
         }
     ],
     "require": {
-        "craftcms/cms": "^3.0.0-beta.23"
+        "craftcms/cms": "^4.0"
     },
     "repositories": [
         {
