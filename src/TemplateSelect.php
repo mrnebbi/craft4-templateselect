@@ -18,7 +18,7 @@ use craft\events\PluginEvent;
 use craft\services\Fields;
 use craft\events\RegisterComponentTypesEvent;
 
-use superbig\templateselect\fields\TemplateSelectField;
+use breizhwave\templateselect\fields\TemplateSelectField;
 use yii\base\Event;
 
 /**

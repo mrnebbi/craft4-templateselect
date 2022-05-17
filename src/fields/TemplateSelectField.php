@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2017 Superbig
  */
 
-namespace superbig\templateselect\fields;
+namespace breizhwave\templateselect\fields;
 
 use craft\helpers\FileHelper;
 
