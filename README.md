@@ -39,9 +39,9 @@ If you want to include a template, you may do it like this in your entry templat
 {% include entry.fieldHandle %}
 ```
 or if you have limited to a subfolder :
+```twig
+ {% include "_subfolder/subfolder2/" ~  entry.wavetemplate    %}
 
-    {% include "_subfolder/subfolder2/" ~  entry.wavetemplate    %}
+```
 
-
-
-Brought to you by [Superbig](https://superbig.co)
+Brought to you by [Superbig](https://superbig.co) and [wave.bzh](https://wave.bzh)
