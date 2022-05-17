@@ -1,4 +1,4 @@
-# Template Select plugin for Craft CMS 3.x
+# Template Select plugin for Craft CMS 4.x
 
 A fieldtype that allows you to select a template from the site templates folder.
 
@@ -6,7 +6,7 @@ A fieldtype that allows you to select a template from the site templates folder.
 
 ## Requirements
 
-This plugin requires Craft CMS 3.0.0-beta.23 or later.
+This plugin requires Craft CMS 4 or later.
 
 ## Installation
 
