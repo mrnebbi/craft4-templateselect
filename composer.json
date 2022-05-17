@@ -19,6 +19,9 @@
         {
             "name": "Superbig",
             "homepage": "https://superbig.co"
+        } ,   {
+            "name": "breizhwave",
+            "homepage": "https://wave.bzh"
         }
     ],
     "require": {
